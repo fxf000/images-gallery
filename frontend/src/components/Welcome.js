@@ -9,7 +9,7 @@ const Welcome = () => (
       order to start enter any search term in the input field.
     </p>
     <p>
-      <Button bsStyle="primary" href="https://unsplash.com" targrt="_blank">
+      <Button href="https://unsplash.com" targrt="_blank">
         Learn more
       </Button>
     </p>
