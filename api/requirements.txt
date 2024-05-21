@@ -9,6 +9,7 @@ certifi=2024.2.2=pyhd8ed1ab_0
 charset-normalizer=3.3.2=pyhd8ed1ab_0
 click=8.1.7=unix_pyh707e725_0
 flask=3.0.3=pyhd8ed1ab_0
+flask-cors=4.0.1=pypi_0
 idna=3.7=pyhd8ed1ab_0
 importlib-metadata=7.1.0=pyha770c72_0
 itsdangerous=2.2.0=pyhd8ed1ab_0
